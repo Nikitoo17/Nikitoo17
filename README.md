@@ -2,8 +2,7 @@
 
 Me destaco en la resolución de problemas mediante la búsqueda activa de soluciones y alternativas, y en resolver diferente problemas de manera creativa. Ademas estoy super dispuesto a mejorar, aprender mas sobre esta profesión y contribuir con muchos proyectos que me ayuden a formarme como profesional. Valoro mucho el trabajo en equipo y la interaccion constante!
 
-✉️ ¡Contáctame! Envíame un correo a nicolasfadel17@gmail.com 📧
-💻 ¡Explora mis proyectos en GitHub! Visita: https://github.com/Nikitoo17 🌐
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/[https://www.linkedin.com/in/voeffray-jonathan](https://www.linkedin.com/in/nicolas-nahuel-fadel-789031228/)/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/VoeffrayJona) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Jonavoe)
 
